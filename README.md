@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Nitesh Patil:
 💫 Hello I'm Nitesh Patil:<br>🎓 Computer Science and Engineering graduate with a Data Science specialization.<br>👋 I'm a Data and Machine Learning Enthusiast with a passion for turning raw data into meaningful insights.<br>📊 Currently working on projects in Data Analysis, Data Science, and ML to sharpen my skills and contribute to the tech community.<br>🎯 Goal: To leverage my skills in data science and machine learning to solve real-world problems, drive impactful decision-making, and continuously grow as a data-driven professional.
 
 
